@@ -2,6 +2,7 @@
 
 ## 🔗 Project Links
 - [Development of Demand Forecasting Model using PySpark](notebook.ipynb)
+Note: This notebook can be only be run on Datacamp workspace because the Spark Session is run on Datacamp.
 
 ## 📖 Background
 It's simple to buy any product with a click and have it delivered to your door. Online shopping has been rapidly evolving over the last few years, making our lives easier. But behind the scenes, e-commerce companies face a complex challenge that needs to be addressed. 
