@@ -1,7 +1,7 @@
 # Building_a_Demand_Forecasting_Model
 
 ## 🔗 Project Links
-- [Development of Demand Forecasting Model using PySpark](https://app.datacamp.com/workspace/w/aa8b9960-5444-478a-bc93-31e8625ab4bf)
+- [Development of Demand Forecasting Model using PySpark](notebook.ipynb)
 
 ## 📖 Background
 It's simple to buy any product with a click and have it delivered to your door. Online shopping has been rapidly evolving over the last few years, making our lives easier. But behind the scenes, e-commerce companies face a complex challenge that needs to be addressed. 
